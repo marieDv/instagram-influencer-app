@@ -7,5 +7,7 @@
  </head>
  <body>
  <?php echo '<p>HEy VErENa! :D</p>'; ?> 
+ <script src="script.js"></script>
+
  </body>
 </html>
